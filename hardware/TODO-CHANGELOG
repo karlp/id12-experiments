@@ -1,0 +1,10 @@
+TODO:
+* verify transistor connections....
+
+id12-v2-s:
+* Breakout pin separation properly moved to 300mil, instead of 150mil.
+* Text rearranged for clarity
+* Breakout pinout flipped with new separation.
+
+id12-v1-s:
+* initial edition
